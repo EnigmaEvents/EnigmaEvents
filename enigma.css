@@ -1,0 +1,156 @@
+body{
+    font-family: 'Century Gothic', serif;
+    font-size: 50px;
+    background: linear-gradient(#4B0082, #800080)
+    }
+
+
+.navbar-brand {
+    text-align: center;
+    font-size: 80px;
+    padding: 10px 100px;
+    color: black;
+   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: #7FFFD4;
+    text-stroke: 10px #7FFFD4;
+
+    }
+ .nav-link {
+    text-align: center;
+    font-size: 30px;
+    padding: 10px 10px 10px 10px;
+    color: white;
+    position: relative;
+    top: 30px;
+    }
+
+.my-nav {
+margin: 0 auto;
+}
+#onas {
+    text-align: center;
+    font-size: 30px;
+    padding: 10px 10px 10px 10px;
+    color: white;
+    }
+
+
+.carousel{
+    width: 90%;
+     margin: 0 auto;
+    padding:25px;
+    }
+
+.my-carousel .carousel-item img {
+object-fit: cover;
+max-height: 800px;
+}
+
+.main-title{
+    text-align: center;
+    font-size: 80px;
+    padding: 10px 100px;
+    color: black;
+   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: #7FFFD4;
+    text-stroke: 10px #7FFFD4;
+}
+.opis {
+width: 80%;
+font-size: 30px;
+margin: 10px auto;
+color: white;
+padding: 15px;
+}
+li {
+margin: 10px;
+}
+
+.onas-wrap{
+    display:flex;
+    padding: 80px;
+    }
+
+ .icon-wrap {
+    width: 410px;
+    height:400px;
+    margin: 10px 15px 40px;
+    text-align: center;
+    font-size: 25px;
+    border: solid;
+    border-color: #7FFFD4;
+    border-height: 10px;
+   position: relative;
+    left: 11%;
+
+ }
+.icon-title {
+      text-decoration: none;
+      color: white;
+      font-weight: 400;
+      margin: 10px;
+      padding: 5px;
+      font-size: 30px;
+      text-align: center;
+
+   }
+hr {
+border-width: 5px;
+border-color: #7FFFD4;
+}
+   .cake {
+    position: relative;
+    overflow: hidden;
+    }
+
+.icon-wrap li {
+color: white;
+}
+
+  #form{
+    margin: 10px auto;
+    padding:15px 150px;
+    border:  solid #7FFFD4;
+    width: 80%;
+    }
+.formblock {
+    font-size: 30px;
+    color: white;
+}
+input{
+margin:10px;
+height: 60px;
+}
+
+select{
+margin:10px;
+font-size:30px;
+}
+.oformlenie{
+font-size: 60px;
+padding:20px 0 20px 0;
+width:100%;
+    color: black;
+   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: #7FFFD4;
+}
+#send {
+font-size: 25px
+}
+footer {
+margin: 20px 0 0 0;
+    text-align: center;
+    font-size: 30px;
+    border-top:  solid #7FFFD4;
+    height: 200px;
+    background-color: #4B0082;
+    }
+
+
+.bottom-links {
+text-align: center;
+padding: 10px 50px 50px 50px;
+}
+.bottom-links a {
+color: white;
+}
