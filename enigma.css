@@ -36,14 +36,14 @@ margin: 0 auto;
 
 
 .carousel{
-    width: 90%;
+    width: 80%;
      margin: 0 auto;
     padding:25px;
     }
 
 .my-carousel .carousel-item img {
 object-fit: cover;
-max-height: 800px;
+max-height: 700px;
 }
 
 .main-title{
